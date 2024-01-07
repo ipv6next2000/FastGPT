@@ -23,15 +23,15 @@ const Footer = () => {
             }
           },
           {
-            label: 'Sealos',
+            label: 'IPv6',
             onClick: () => {
-              window.open('https://github.com/labring/sealos', '_blank');
+              window.open('http://www.ipv6next.cn', '_blank');
             }
           },
           {
-            label: 'Laf',
+            label: 'SDWAN',
             onClick: () => {
-              window.open('https://github.com/labring/laf', '_blank');
+              window.open('http://www.ipv6next.cn', '_blank');
             }
           }
         ]
